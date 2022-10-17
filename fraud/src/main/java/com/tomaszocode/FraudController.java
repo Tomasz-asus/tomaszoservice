@@ -1,5 +1,6 @@
 package com.tomaszocode;
 
+import com.tomaszocode.clients.fraud.FraudCheckResponse;
 import lombok.AllArgsConstructor;
 
 import org.springframework.web.bind.annotation.*;
