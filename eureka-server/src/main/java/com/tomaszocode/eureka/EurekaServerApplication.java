@@ -1,4 +1,4 @@
-package com.tomaszocode;
+package com.tomaszocode.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

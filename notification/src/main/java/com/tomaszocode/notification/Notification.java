@@ -1,4 +1,4 @@
-package com.tomaszocode;
+package com.tomaszocode.notification;
 
 import lombok.*;
 

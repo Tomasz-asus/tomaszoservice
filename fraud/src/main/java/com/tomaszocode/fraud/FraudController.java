@@ -1,4 +1,4 @@
-package com.tomaszocode;
+package com.tomaszocode.fraud;
 
 import com.tomaszocode.clients.fraud.FraudCheckResponse;
 import lombok.AllArgsConstructor;

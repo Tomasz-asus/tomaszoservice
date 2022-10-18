@@ -1,4 +1,4 @@
-package com.tomaszocode;
+package com.tomaszocode.customer;
 
 import com.tomaszocode.clients.fraud.FraudCheckResponse;
 import com.tomaszocode.clients.fraud.FraudClient;

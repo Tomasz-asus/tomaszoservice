@@ -1,4 +1,4 @@
-package com.tomaszocode;
+package com.tomaszocode.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

@@ -1,4 +1,4 @@
-package com.tomaszocode;
+package com.tomaszocode.apigw;
 
 
 import org.springframework.boot.SpringApplication;

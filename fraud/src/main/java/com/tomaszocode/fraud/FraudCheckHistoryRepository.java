@@ -1,4 +1,4 @@
-package com.tomaszocode;
+package com.tomaszocode.fraud;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

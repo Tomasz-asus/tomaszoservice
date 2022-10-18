@@ -1,4 +1,4 @@
-package com.tomaszocode;
+package com.tomaszocode.notification;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,4 +1,4 @@
-package com.tomaszocode;
+package com.tomaszocode.fraud;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;

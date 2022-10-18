@@ -1,4 +1,4 @@
-package com.tomaszocode;
+package com.tomaszocode.customer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
