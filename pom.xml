@@ -13,8 +13,9 @@
     <module>customer</module>
     <module>fraud</module>
     <module>eureka-server</module>
-      <module>clients</module>
-      <module>notification</module>
+    <module>clients</module>
+    <module>notification</module>
+      <module>apigw</module>
   </modules>
 
   <name>tomaszoservices</name>
@@ -64,7 +65,7 @@
   </dependencies>
 
   <build>
-    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+    <pluginManagement>
       <plugins>
         <plugin>
           <groupId>org.springframework.boot</groupId>
