@@ -1,10 +1,8 @@
 package com.tomaszocode.notification;
 
-import com.tomaszocode.amqp.RabbitMQMessageProducer;
-import org.springframework.boot.CommandLineRunner;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication(
         scanBasePackages = {
@@ -18,7 +16,7 @@ public class NotificationApplication {
         SpringApplication.run(NotificationApplication.class, args);
     }
 
-@Bean
+/*@Bean
     CommandLineRunner commandLineRunner(RabbitMQMessageProducer producer,
                                         NotificationConfig notificationConfig){
         return args-> {
@@ -30,4 +28,6 @@ public class NotificationApplication {
         };
     }
     record Person(String name, int age){}
+*/
 }
+
