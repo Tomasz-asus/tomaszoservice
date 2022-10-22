@@ -1,0 +1,8 @@
+com\tomaszocode\notification\Notification$NotificationBuilder.class
+com\tomaszocode\notification\Notification.class
+com\tomaszocode\notification\NotificationRepository.class
+com\tomaszocode\notification\NotificationApplication.class
+com\tomaszocode\notification\NotificationConfig.class
+com\tomaszocode\notification\rabbitmq\NotificationConsumer.class
+com\tomaszocode\notification\NotificationController.class
+com\tomaszocode\notification\NotificationService.class
