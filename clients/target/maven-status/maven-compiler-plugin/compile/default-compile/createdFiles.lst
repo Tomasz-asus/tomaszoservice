@@ -1,4 +1,4 @@
-com\tomaszocode\clients\fraud\FraudCheckResponse.class
-com\tomaszocode\clients\fraud\FraudClient.class
 com\tomaszocode\clients\notification\NotificationClient.class
 com\tomaszocode\clients\notification\NotificationRequest.class
+com\tomaszocode\clients\fraud\FraudCheckResponse.class
+com\tomaszocode\clients\fraud\FraudClient.class
